@@ -1,7 +1,7 @@
 <!-- About Me - Laurence Magistrado -->
 
 <p align="center">
-  <img src="[[[readme-files/mypic.jpg](https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg)](https://github.com/user-attachments/assets/31ca1fd0-8644-4920-8d71-e72c96ecb62e)](https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true)" alt="Laurence" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.2); object-fit: cover;">
+  <img src="https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true" alt="Laurence" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.2); object-fit: cover;">
 </p>
 
 <h1 align="center" style="font-size:2.5rem; font-weight:800; margin-bottom:0.5em;">
