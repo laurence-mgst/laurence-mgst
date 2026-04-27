@@ -1,71 +1,85 @@
-<!-- About Me - Laurence Magistrado -->
+<!-- Laurence Magistrado -->
 
-<p align="center">
-  <img src="https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true" alt="Laurence" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 16px rgba(0,0,0,0.2); object-fit: cover;">
+<div align="center">
+
+<img src="https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true" width="140" style="border-radius:50%;" />
+
+# Laurence Magistrado
+
+### Frontend Developer • Mobile Developer • Backend Enthusiast
+
+<p>
+Building modern digital experiences with clean UI, scalable code, and seamless UX.
 </p>
 
-<h1 align="center" style="font-size:2.5rem; font-weight:800; margin-bottom:0.5em;">
-  Laurence Magistrado
-</h1>
+<br/>
 
-<p align="center" style="font-size:1.25rem; color:#a855f7; font-weight:500;">
-  Frontend Developer (Web & Mobile) <span style="margin:0 0.5em;">|</span> Backend Enthusiast
-</p>
+<a href="https://laurencemagistrado.jobs180.com/">
+  <img src="https://img.shields.io/badge/Resume-0ea5e9?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
+<a href="https://github.com/laurence-mgst">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/laurence-magistrado/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</p>
+<br/><br/>
 
-<p align="center" style="font-size:1.1rem; color:#374151;">
-  I craft modern, responsive, and accessible web & mobile apps using <b style="color:#06b6d4;">React</b>, <b style="color:#3b82f6;">TypeScript</b>, <b style="color:#22c55e;">Python</b>, and more. I love building seamless user experiences and occasionally dive into backend development.
-</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p align="center" style="color:#6b7280;">
-  I'm passionate about learning, collaborating, and contributing to the tech community.
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 ---
 
-### 🚀 Tech Stack
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
+```ts
+const laurence = {
+  role: "Frontend / Mobile Developer",
+  passion: ["UI/UX", "Performance", "Scalable Apps"],
+  stack: ["React", "React Native", "TypeScript", "Node.js", "Python"],
+  currentlyLearning: "Backend Architecture",
+  funFact: "Pixel-perfect interfaces make me happy."
+};
+```
 
 ---
 
-<p align="center">
-  <a href="https://laurencemagistrado.jobs180.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Résumé-06b6d4?style=for-the-badge&logo=readme&logoColor=white" alt="View My Résumé" />
-  </a>
-</p>
+## What I Build
 
-<p align="center">
-    <a href="https://github.com/laurence-mgst" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/laurencemgst" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/laurence-magistrado/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+✔ Responsive Web Apps  
+✔ Cross-platform Mobile Apps  
+✔ Dashboard Systems  
+✔ Backend APIs  
+✔ Clean UI Systems  
+✔ Scalable Frontend Architecture
+
+---
+
+<div align="center">
+
+### Connect With Me
+
+<a href="https://github.com/laurence-mgst">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+<a href="https://www.linkedin.com/in/laurence-magistrado/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+</div>
