@@ -1,85 +1,92 @@
-<!-- Laurence Magistrado -->
-
 <div align="center">
 
-<img src="https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true" width="140" style="border-radius:50%;" />
+<img src="https://github.com/laurencemgst/laurencemgst/blob/main/readme-files/mypic.jpg?raw=true" width="130" style="border-radius:999px;" />
+
+<br/>
+<br/>
 
 # Laurence Magistrado
 
-### Frontend Developer • Mobile Developer • Backend Enthusiast
+### ✦ Frontend Engineer • Mobile Developer • UI Craftsman
 
-<p>
-Building modern digital experiences with clean UI, scalable code, and seamless UX.
+<p align="center">
+  Creating elegant digital products with precision, performance, and beautiful user experience.
 </p>
 
-<br/>
+<br>
 
 <a href="https://laurencemagistrado.jobs180.com/">
-  <img src="https://img.shields.io/badge/Resume-0ea5e9?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 <a href="https://github.com/laurence-mgst">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/laurence-magistrado/">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br>
+<br>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,python,flask,mysql,git,github,vscode" />
 
-<br/>
+<br>
+<br>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2&section=header"/>
 
 </div>
 
----
+## ✦ Philosophy
 
-## About Me
+> I build interfaces that feel effortless.  
+> Clean code. Sharp design. Smooth experience.
 
-```ts
-const laurence = {
-  role: "Frontend / Mobile Developer",
-  passion: ["UI/UX", "Performance", "Scalable Apps"],
-  stack: ["React", "React Native", "TypeScript", "Node.js", "Python"],
-  currentlyLearning: "Backend Architecture",
-  funFact: "Pixel-perfect interfaces make me happy."
-};
+<br>
+
+## Stack
+
+```yaml
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - TailwindCSS
+  - Redux
+
+Mobile:
+  - React Native
+  - Expo
+
+Backend:
+  - Node.js
+  - Python
+  - Flask
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
 ```
 
----
+<br>
 
-## What I Build
+## Current Focus
 
-✔ Responsive Web Apps  
-✔ Cross-platform Mobile Apps  
-✔ Dashboard Systems  
-✔ Backend APIs  
-✔ Clean UI Systems  
-✔ Scalable Frontend Architecture
+```txt
+→ scalable frontend architecture
+→ smooth mobile experiences
+→ backend system design
+→ pixel-perfect UI execution
+```
 
----
+<br>
 
 <div align="center">
 
-### Connect With Me
+### Minimal. Fast. Beautiful.
 
-<a href="https://github.com/laurence-mgst">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-<a href="https://www.linkedin.com/in/laurence-magistrado/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laurence-mgst&bg_color=0d1117&color=ffffff&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
 
 </div>
